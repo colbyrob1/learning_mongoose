@@ -1,3 +1,3 @@
 # learning_mongoose
 
-learning mongoose
+learning mongoose and MongoDB
