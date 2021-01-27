@@ -1,6 +1,6 @@
 
 require("./db/connection");
-const { Person } = require("./models/Person");
+const { Person } = require("./models/person");
 const { Job } = require("./models/job");
 
 const app = async () => {
